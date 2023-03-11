@@ -1,0 +1,7 @@
+[submodule "simdhelpers"]
+	path = lib/simdhelpers
+	url = https://github.com/natmaurice/simdhelpers.git
+	branch = master
+[submodule "lib/perf-utils"]
+	path = lib/perf-utils
+	url = https://github.com/natmaurice/perf-utils.git
